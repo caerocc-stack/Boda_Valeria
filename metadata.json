@@ -1,0 +1,6 @@
+{
+  "name": "Nuestra Película",
+  "description": "Una invitación de boda interactiva con concepto cinematográfico y romántico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
